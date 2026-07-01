@@ -16,7 +16,7 @@ This repository contains my Java solutions to LeetCode problems.
 
 | Problem No. | Problem Name                 | Solution                                               |
 | ----------- | ---------------------------- | ------------------------------------------------------ |
-| 713         | Subarray Product Less Than K | [View Solution](713_Subarray_Product_Less_Than_K.java) |
+| 713         | Subarray Product Less Than K | [View Solution](713.Subarray_Product_Less_Than_K.java) |
 | 974         | Subarray Sums Divisible by K | [View Solution](974_Subarray_Sums_Divisible_By_K.java) |
 
 
