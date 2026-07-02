@@ -21,6 +21,10 @@ This repository contains my Java solutions to LeetCode problems.
 | 974 | Subarray Sums Divisible by K | [View Solution](974_Subarray_Sums_Divisible_By_K.java) |
 | 283 | Move Zeroes | [View Solution](283_Move_Zeroes.java) |
 | 75 | Sort Colors | [View Solution](75_Sort_Colors.java) |
+| 202 | Happy Number | [View Solution](202_Happy_Number.java) |
+
+
+
 
 
 I regularly update this repository with new solutions and optimized approaches.
