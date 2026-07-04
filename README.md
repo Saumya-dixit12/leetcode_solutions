@@ -22,6 +22,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 283 | Move Zeroes | [View Solution](283_Move_Zeroes.java) |
 | 75 | Sort Colors | [View Solution](75_Sort_Colors.java) |
 | 202 | Happy Number | [View Solution](202_Happy_Number.java) |
+| 258 | Add Digits | [View Solution](258_Add_Digits.java) |
 
 
 
