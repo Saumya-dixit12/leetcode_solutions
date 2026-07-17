@@ -1,32 +1,62 @@
-# DSA Solutions (Java)
+# 🚀 DSA Solutions
 
-This repository contains my Java solutions to LeetCode problems.
+A collection of my **LeetCode** and **Data Structures & Algorithms (DSA)** solutions in Java. This repository showcases my coding practice, problem-solving journey, and continuous learning in DSA.
 
-## Language
+---
+
+## 📋 Problems Solved
+
+| #    | Problem                      | Difficulty  | Solution                                               | Platform                                                                |
+| ---- | ---------------------------- | ----------- | ------------------------------------------------------ | ----------------------------------------------------------------------- |
+| 1004 | Max Consecutive Ones III     | 🟡 Medium   | [View Solution](1004_Max_Consecutive_Ones_III.java)    | [LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii/)     |
+| 713  | Subarray Product Less Than K | 🟡 Medium   | [View Solution](713_Subarray_Product_Less_Than_K.java) | [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/) |
+| 974  | Subarray Sums Divisible by K | 🟡 Medium   | [View Solution](974_Subarray_Sums_Divisible_By_K.java) | [LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
+| 283  | Move Zeroes                  | 🟢 Easy     | [View Solution](283_Move_Zeroes.java)                  | [LeetCode](https://leetcode.com/problems/move-zeroes/)                  |
+| 75   | Sort Colors                  | 🟡 Medium   | [View Solution](75_Sort_Colors.java)                   | [LeetCode](https://leetcode.com/problems/sort-colors/)                  |
+| 202  | Happy Number                 | 🟢 Easy     | [View Solution](202_Happy_Number.java)                 | [LeetCode](https://leetcode.com/problems/happy-number/)                 |
+| 258  | Add Digits                   | 🟢 Easy     | [View Solution](258_Add_Digits.java)                   | [LeetCode](https://leetcode.com/problems/add-digits/)                   |
+| --   | Count Words in a String      | 🔵 Practice | [View Solution](count_words_in_a.java)                 | Java Practice                                                           |
+
+---
+
+## 🛠️ Tech Stack
 
 * Java
+* Data Structures & Algorithms (DSA)
+* LeetCode
+* Git & GitHub
 
-## Goals
+---
 
-* Practice Data Structures and Algorithms
-* Improve problem-solving skills
-* Prepare for coding interviews
+## 🎯 Objectives
 
-## Solved Problems
+* Solve coding problems regularly.
+* Strengthen Data Structures & Algorithms concepts.
+* Improve logical thinking and problem-solving skills.
+* Write clean, efficient, and optimized code.
+* Track learning progress through GitHub.
 
-| Problem No. | Problem Name | Solution |
-|------------|--------------|----------|
-| 1004 | Max Consecutive Ones III | [View Solution](1004_Max_Consecutive_Ones_III.java) |
-| 713 | Subarray Product Less Than K | [View Solution](713_Subarray_Product_Less_Than_K.java) |
-| 974 | Subarray Sums Divisible by K | [View Solution](974_Subarray_Sums_Divisible_By_K.java) |
-| 283 | Move Zeroes | [View Solution](283_Move_Zeroes.java) |
-| 75 | Sort Colors | [View Solution](75_Sort_Colors.java) |
-| 202 | Happy Number | [View Solution](202_Happy_Number.java) |
-| 258 | Add Digits | [View Solution](258_Add_Digits.java) |
-| gfg | Count Words in a String | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/count_words_in_a.java) |
+---
 
+## 📈 Current Progress
 
+* Total Problems Solved: **8+**
+* Programming Language: **Java**
+* Topics Covered:
 
+  * Arrays
+  * Sliding Window
+  * HashMap
+  * Prefix Sum
+  * Sorting
+  * Math
 
+---
 
-I regularly update this repository with new solutions and optimized approaches.
+### 🌟 About Me
+
+I am **Saumya Dixit**, a B.Tech Computer Science (Data Science) student passionate about coding, problem-solving, Data Analytics, and Machine Learning. This repository is a part of my journey to improve my DSA skills and prepare for coding interviews and placements.
+
+---
+
+⭐ If you like this repository, don't forget to give it a star!
