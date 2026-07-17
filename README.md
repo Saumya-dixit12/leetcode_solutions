@@ -36,27 +36,5 @@ A collection of my **LeetCode** and **Data Structures & Algorithms (DSA)** solut
 * Write clean, efficient, and optimized code.
 * Track learning progress through GitHub.
 
----
-
-## 📈 Current Progress
-
-* Total Problems Solved: **8+**
-* Programming Language: **Java**
-* Topics Covered:
-
-  * Arrays
-  * Sliding Window
-  * HashMap
-  * Prefix Sum
-  * Sorting
-  * Math
-
----
-
-### 🌟 About Me
-
-I am **Saumya Dixit**, a B.Tech Computer Science (Data Science) student passionate about coding, problem-solving, Data Analytics, and Machine Learning. This repository is a part of my journey to improve my DSA skills and prepare for coding interviews and placements.
-
----
 
 ⭐ If you like this repository, don't forget to give it a star!
