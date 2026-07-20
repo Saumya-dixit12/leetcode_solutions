@@ -22,6 +22,7 @@ A collection of my **LeetCode** and **Data Structures & Algorithms (DSA)** solut
 | -- | Convert Sentence to Camel Case | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Convert_Sentence_to_Camel_Case.java) | [GFG](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) |
 | 1528 | Shuffle String | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/1528_%20Shuffle_String.java) | [LeetCode](https://leetcode.com/problems/shuffle-string/) |
 | 443 | String Compression | 🟠 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/443_String_Compression.java) | [LeetCode](https://leetcode.com/problems/string-compression/) |
+| 67 | Add Binary | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/67_Add_Binary.java) | [LeetCode](https://leetcode.com/problems/add-binary/) |
 
 ---
 
