@@ -12,6 +12,7 @@ A collection of my **LeetCode** and **Data Structures & Algorithms (DSA)** solut
 | 67 | Add Binary | 🟢 Easy | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/67_Add_Binary.java) | [LeetCode](https://leetcode.com/problems/add-binary/) |
 | 75 | Sort Colors | 🟡 Medium | [View Solution](75_Sort_Colors.java) | [LeetCode](https://leetcode.com/problems/sort-colors/) |
 | 151 | Reverse Words in a String | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Reverse_words_in_a_string.java) | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| 179 | Largest Number | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/179_Largest_Number.java) | [LeetCode](https://leetcode.com/problems/largest-number/) |
 | 202 | Happy Number | 🟢 Easy | [View Solution](202_Happy_Number.java) | [LeetCode](https://leetcode.com/problems/happy-number/) |
 | 258 | Add Digits | 🟢 Easy | [View Solution](258_Add_Digits.java) | [LeetCode](https://leetcode.com/problems/add-digits/) |
 | 283 | Move Zeroes | 🟢 Easy | [View Solution](283_Move_Zeroes.java) | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
@@ -32,7 +33,6 @@ A collection of my **LeetCode** and **Data Structures & Algorithms (DSA)** solut
 | -- | Toggle Case | 🔵 Practice | [View Solution](Toggle_Case.java) | [GFG](https://www.geeksforgeeks.org/problems/toggle-case/1) |
 | -- | Convert Sentence to Camel Case | 🟡 Medium | [View Solution](https://github.com/Saumya-dixit12/DSA_solutions/blob/main/Convert_Sentence_to_Camel_Case.java) | [GFG](https://www.geeksforgeeks.org/problems/convert-sentence-to-camel-case/1) |
 
----
 
 ## 🛠️ Tech Stack
 
