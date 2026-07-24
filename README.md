@@ -6,9 +6,10 @@ A collection of my **LeetCode** and **GeeksforGeeks (GFG)** solutions in **Java*
 
 ## 📈 Progress
 
-- ✅ Total Problems Solved: **0**
-- 🟠 LeetCode: **0**
-- 🟢 GeeksforGeeks: **0**
+- ✅ Total Problems Solved: **21**
+- 🟠 LeetCode: **17**
+- 🟢 GeeksforGeeks: **4**
+
 
 ---
 
